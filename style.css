@@ -1,0 +1,12 @@
+body {
+    background-color: rgb(92, 16, 179);
+    font-family:'Courier New', Courier, monospace;
+}
+
+input[type="text"],
+input[type="date"],
+select,
+textarea {
+    border-radius: 12px;
+    border-width: 0px;
+    }
