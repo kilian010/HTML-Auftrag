@@ -1,0 +1,52 @@
+body{
+    background-image: url("./Bambus-scaled.jpg");
+    background-size: cover;
+    border: 0px;
+    margin: 0px;
+    
+}
+header {
+    width:100%;
+    height: 400px;
+    background-color: rgb(70, 133, 12);
+    margin: 4%;
+    padding: 4%;
+    margin-right: 4%;
+    max-width: 84%;
+}
+
+.lb3 {
+    position:  absolute;
+    left: 33%;
+}
+
+nav {
+    display: flex;
+    justify-content: center;
+
+}
+
+.navbtn {
+    background-color: #F0C330;
+    text-align: center;
+    height: 70px;
+    width: 100px;
+    border: none;
+    border-width: 0%;
+    font-size: 14px;
+    color: white; 
+}
+
+.navbtn:hover {
+    background-color: rgb(115, 191, 43);
+    color: black;
+}
+
+header {
+    border-radius: 15px;
+}
+
+ #bild2{
+    display: flex;
+    justify-content: center;
+ }
