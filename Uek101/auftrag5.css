@@ -1,0 +1,33 @@
+.selector-for-some-widget {
+  box-sizing: content-box;
+}
+
+body {
+    text-align: left;
+    margin-top: 20vh;
+}
+
+.inpt {
+    text-align:left;
+    width: 50vh;
+}
+
+.radbtn {
+    margin-right:1vh
+}
+
+#plz {
+    width: 10vh;
+}
+
+.row {
+    margin-top: 2vh;
+}
+
+#ort {
+    width: 28.7vh;
+}
+
+#drpdwn {
+    width:50vh;
+}
