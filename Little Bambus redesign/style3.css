@@ -46,7 +46,7 @@ header {
     border-radius: 15px;
 }
 
- #bild2{
+ .lb5{
     display: flex;
     justify-content: center;
  }
